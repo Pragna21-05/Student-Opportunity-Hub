@@ -1,11 +1,34 @@
-<div align="center">
+# Student Opportunity Hub
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A web platform designed to help students discover learning resources, career roadmaps, and opportunities.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- Career roadmaps
+- Learning paths
+- Student opportunities
+- Saved opportunities
+- Completed learning tracking
+- Search for skills and technologies
+- Student-friendly interface
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Technologies Used
 
-</div>
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Vite
+
+## Purpose
+
+The Student Opportunity Hub helps students discover opportunities and build skills through structured learning paths and career guidance.
+
+## Future Improvements
+
+- User authentication
+- More learning resources
+- Opportunity filtering
+- Notifications
+- Personalized career recommendations

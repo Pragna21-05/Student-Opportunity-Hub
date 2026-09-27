@@ -1,0 +1,6 @@
+{
+  "name": "Student Opportunity Hub",
+  "description": "Discover career roadmaps, real learning resources, and curated opportunities such as hackathons, internships, scholarships, and competitions for engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
